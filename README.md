@@ -35,10 +35,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/enraiha0307/Glitch-Distortion-Slider">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="imgs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">To-do List</h3>
+  <h3 align="center">Glitch-Distortion-Slider</h3>
 
   <p align="center">
     A Glitch effect distortion slider.
@@ -46,7 +46,7 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/enraiha0307/Glitch-Distortion-Slider">View Demo</a>
+    <a href="https://boring-chandrasekhar-941ee1.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/enraiha0307/Glitch-Distortion-Slider/issues">Report Bug</a>
     ·
